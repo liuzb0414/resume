@@ -9,7 +9,8 @@ const router = createRouter({
     routes: [
         {
             path: '/',
-            redirect: '/home/chat'
+            component: () => import("@/view/index.vue")
+            //redirect: '/home/chat'
         },
         {
             path: '/main',
