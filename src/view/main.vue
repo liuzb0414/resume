@@ -1,7 +1,7 @@
 <template>
     <div class="app-container">
         <div class="home-container">
-            resume for liuzhibin
+            resume for liuzhibin1
             <router-view></router-view>
             <div class="tabbar-container">
                 <router-link to="/home/chat" class="link">
