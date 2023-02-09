@@ -2,7 +2,7 @@
     <div class="app-container">
         <div class="home-container">
             resume for liuzhibin
-            <!-- <router-view></router-view>
+            <router-view></router-view>
             <div class="tabbar-container">
                 <router-link to="/home/chat" class="link">
                     <figure><img
@@ -20,7 +20,7 @@
                         <figcaption>个人中心</figcaption>
                     </figure>
                 </router-link>
-            </div> -->
+            </div>
         </div>
     </div>
 </template>

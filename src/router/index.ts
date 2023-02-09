@@ -1,8 +1,8 @@
 import { createRouter, createWebHashHistory } from "vue-router"
 
-import Main from '@/view/Main.vue'
-import Home from '@/view/Home.vue'
-import Admin from '@/view/Admin.vue'
+// import Main from '@/view/Main.vue'
+// import Home from '@/view/Home.vue'
+// import Admin from '@/view/Admin.vue'
 
 const router = createRouter({
     history: createWebHashHistory(),
